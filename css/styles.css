@@ -1,0 +1,27 @@
+.column p {
+  margin: auto;
+  border: 9px solid green;
+  padding: 10px;
+  background-color: orange;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  float: 80px;
+  
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  
+  }
+  
+.centered-image {
+    width: 50%;
+    height: auto;
+    border: 200px solid yellow
+  }
+
+.welcome {
+  text-align: center;
+  font-family: sans-serif;
+  border: 70px solid blue;
+  padding: 20px;
+}
